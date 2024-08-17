@@ -10,9 +10,7 @@
 }
 
 .tags {
-  // color: #ffd700;
-  // color: #ff4500; // red
-  color: #00ffd5; // green
+  color: #00ffd5;
   opacity: 0.9;
   position: absolute;
   bottom: 0;
@@ -130,7 +128,6 @@ $shadows-big: multiple-box-shadow(200);
 
 html {
   height: 100%;
-  // background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
   overflow: hidden;
 }
 #stars {
